@@ -222,9 +222,7 @@ body.light-mode #theme-toggle {
     height: 50px;
   }
 
-  .btn,
-  .resume-button,
-  #theme-toggle {
+  .btn, .resume-button, #theme-toggle {
     font-size: 0.8rem;
     padding: 0.4rem 0.9rem;
   }
